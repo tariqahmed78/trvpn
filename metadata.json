@@ -1,0 +1,6 @@
+{
+  "name": "TRVPN",
+  "description": "High-Performance Liquid Glass OpenVPN Client for Android with VPN Gate directory integration, real tunnel lifecycle, and security controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
